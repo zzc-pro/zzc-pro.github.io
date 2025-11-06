@@ -11,11 +11,11 @@ I'm an undergrad at Nanjing University of Aeronautics and Astronautics. My resea
 
 Currently looking for a RA position.
 
-News
+🔥News
 ------
 **[2025.11]:** 🏆 Awarded the **Grand Prize** at the **Challenging Cup National Competition**. More [Details](https://mp.weixin.qq.com/s/k_kVNPCBsRHPt_BavOYZpw)
 
-Selected Publications
+💪Selected Publications
 ------
 
 <!-- Site-wide configuration
