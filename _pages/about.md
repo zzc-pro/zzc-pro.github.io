@@ -13,7 +13,7 @@ Currently looking for a RA position.
 
 News
 ------
-**[2025.10]:** 🏆 Awarded the **Grand Prize** at the **Challenging Cup National Competition**. More [Details](https://mp.weixin.qq.com/s/k_kVNPCBsRHPt_BavOYZpw)
+**[2025.11]:** 🏆 Awarded the **Grand Prize** at the **Challenging Cup National Competition**. More [Details](https://mp.weixin.qq.com/s/k_kVNPCBsRHPt_BavOYZpw)
 
 Selected Publications
 ------
