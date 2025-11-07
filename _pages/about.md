@@ -13,7 +13,7 @@ Currently looking for a RA position.
 
 🔥News
 ------
-**[2025.11]:** 🏆 Won the **Grand Prize** at the **Challenging Cup National Competition**. More [Details](https://mp.weixin.qq.com/s/k_kVNPCBsRHPt_BavOYZpw)
+**[2025.11]:** 🏆 Won the **Grand Prize** at the **Challenging Cup National Competition**. More [Details](https://cog.nuaa.edu.cn/2025/1104/c757a386909/page.htm)
 
 💪Selected Publications
 ------
