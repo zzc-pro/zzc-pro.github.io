@@ -9,7 +9,7 @@ redirect_from:
 
 I'm an undergrad at Nanjing University of Aeronautics and Astronautics. My research interests include Multimodal LLMs, Computer Vision, Image Processing, Robotics, Generative models.
 
-Currently looking for a RA position.
+Currently looking for an RA position.
 
 🔥News
 ------
