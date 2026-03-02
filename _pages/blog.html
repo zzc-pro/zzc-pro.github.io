@@ -1,0 +1,12 @@
+---
+layout: archive
+permalink: /blog/
+title: "My blogs"
+author_profile: true
+---
+
+<h3 class="archive__subtitle">newest</h3>
+
+{% for post in site.posts %}
+  {% include archive-single.html %}
+{% endfor %}
