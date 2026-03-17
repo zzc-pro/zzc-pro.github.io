@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "avatar_mine.png"
-  name             : "Zichen Zhao"
+  name             : "Zichen Zhao(赵梓辰)"
   pronouns         : # example: "she/her"  
   bio              : "Undergrad@NUAA"
   location         : "Nanjing, China"
@@ -68,7 +68,7 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "JeremyZzzz"
+  steam            : # Username
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
