@@ -9,14 +9,13 @@ redirect_from:
 
 I'm an undergrad at Nanjing University of Aeronautics and Astronautics. My research interests include Multimodal LLMs, Embodied AI, Generative models, Robotics.
 
-Currently looking for an RA position.
-
 🔥News
 ------
 **[2025.11]:** 🏆 Won the **Grand Prize** at the **Challenging Cup National Competition**. More [Details](https://cog.nuaa.edu.cn/2025/1104/c757a386909/page.htm)
 
 💪Selected Publications
 ------
+None
 
 🏆Honors and Awards
 ------
