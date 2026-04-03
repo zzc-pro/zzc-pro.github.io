@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm an undergrad at Nanjing University of Aeronautics and Astronautics. My research interests include Multimodal LLMs, Embodied AI, Generative models, Robotics.
+I'm currently a visiting student at Westlake University under the supervision of Prof. [Huan Wang](https://huanwang.tech/). My research interests include Multi-modal Learning, Computer Vision, etc.
 
 🔥News
 ------
@@ -15,7 +15,7 @@ I'm an undergrad at Nanjing University of Aeronautics and Astronautics. My resea
 
 💪Selected Publications
 ------
-None
+Coming soon...
 
 🏆Honors and Awards
 ------
