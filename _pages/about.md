@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a visiting student at Westlake University under the supervision of Prof. [Huan Wang](https://huanwang.tech/). My research interests include Multi-modal Learning, Computer Vision, Efficient AI systems, etc.
+I'm currently a visiting student at Westlake University under the supervision of Prof. **[Huan Wang](https://huanwang.tech/)**. My research interests include Multi-modal Learning, Computer Vision, Efficient AI systems, etc.
 
 🔥News
 ------
-**[2026.4]:** 🎓 Joined [ENCODE Lab](https://westlake-encode-lab.github.io/) at Westlake University as a visiting student, surpervised by Prof. [Huan Wang](https://huanwang.tech/)<br>
+**[2026.4]:** 🎓 Joined **[ENCODE Lab](https://westlake-encode-lab.github.io/)** at Westlake University as a visiting student, surpervised by Prof. **[Huan Wang](https://huanwang.tech/)**<br>
 **[2025.11]:** 🏆 Won the **Grand Prize** at the **Challenging Cup National Competition**. More [Details](https://cog.nuaa.edu.cn/2025/1104/c757a386909/page.htm)
 
 💪Selected Publications
