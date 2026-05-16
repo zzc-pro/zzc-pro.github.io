@@ -23,8 +23,8 @@ main:
   - title: "Blog"
     url: /blog/
 
-  - title: "Games"
-    url: https://zzc-pro.github.io/Classic_Tetris_Game/
+  - title: "Projects"
+    url: /projects/
 
   - title: "CV"
     url: /cv/
