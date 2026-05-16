@@ -11,6 +11,7 @@ I'm currently a visiting student at Westlake University under the supervision of
 
 🔥News
 ------
+**[2026.5]:** 🤷‍♂️ If you're tired of browsing the website, click [here](https://zzc-pro.github.io/projects/tetris/) to play Tetris for a while.
 **[2026.4]:** 🎓 Joined **[ENCODE Lab](https://westlake-encode-lab.github.io/)** at Westlake University as a visiting student, surpervised by Prof. **[Huan Wang](https://huanwang.tech/)**<br>
 **[2025.11]:** 🏆 Won the **Grand Prize** at the **Challenging Cup National Competition**. More [Details](https://cog.nuaa.edu.cn/2025/1104/c757a386909/page.htm)
 
