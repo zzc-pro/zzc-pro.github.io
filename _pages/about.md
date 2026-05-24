@@ -19,6 +19,31 @@ I'm currently a visiting student at Westlake University under the supervision of
 ------
 Coming soon...
 
+💪Preprints
+------
+
+<div id="pubs"></div>
+<div class="paper" style="clear:left;">
+  <div class="pimg" style="float:left;margin-top:10px;margin-bottom:10px;padding-left:3px;">
+      <img src="assets/imgs/WRC.png" width="210" class="img-bordered" alt="photo">
+  </div>
+  <div class="ptitle" style="padding:1px;margin-left:240px;line-height:1.8">
+    Weighted Reverse Convolution for Feature Upsampling
+  </div>
+  <div class="pauthors" style="padding:1px;margin-left:240px;line-height:1.8">
+      Wentong Li*, Zhiyuan Qi*, <b>Zichen Zhao</b>, Kai Zhang, Lei Zhang
+  </div>
+  <div class="pvenue" style="padding:1px;margin-left:240px;line-height:1.8">
+    arXiv:2605.17472
+  </div>
+  <div class="pvenue" style="padding:1px;margin-left:240px;line-height:1.8">
+      <p>      
+      <a href="https://arxiv.org/pdf/2605.17472" target="_blank" rel="noopener">Paper</a> ｜
+      <a href="https://github.com/PolyU-VCLab/WRC" target="_blank" rel="noopener">Code</a> <img src="https://img.shields.io/github/stars/PolyU-VCLab/WRC?style=social" /> 
+      </p>
+  </div>
+</div>
+
 🏆Honors and Awards
 ------
 **[2025.11]** **Grand Prize**, Challenging Cup National Competition

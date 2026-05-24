@@ -21,3 +21,4 @@ package-lock.json
 
 # Ignore Claude Code config
 .claude/
+CLAUDE.md
