@@ -22,3 +22,7 @@ package-lock.json
 # Ignore Claude Code config
 .claude/
 CLAUDE.md
+
+# Ignore local agent instructions
+AGENT.md
+AGENTS.md
