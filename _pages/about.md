@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a visiting student at Westlake University under the supervision of Prof. **[Huan Wang](https://huanwang.tech/)**. My research interests include Multi-modal Learning, Computer Vision, Efficient AI systems, etc.
+I'm currently a visiting student at Westlake University under the supervision of Prof. **[Huan Wang](https://huanwang.tech/)**.<br>
+My research interests include:<br>
+1) Efficient AI (LLM/VLM/Diffusion Model's Efficiency)<br>
+2) Multimodal Learning (Object-Level understanding VLMs)<br>
+3) Computer Vision (Detection, Segmentation)
 
 🔥News
 ------
