@@ -8,22 +8,25 @@ redirect_from:
 ---
 
 I'm currently a visiting student at Westlake University under the supervision of Prof. **[Huan Wang](https://huanwang.tech/)**.<br>
-My research interests include:<br>
-1) Efficient AI (LLM/VLM/Diffusion Model's Efficiency)<br>
+
+
+🐱‍👤 Research interests
+------
+1) Efficient AI & MLSys (LLM/VLM/Diffusion Model's Efficiency, LLM4Kernel Gen)<br>
 2) Agentic AI (Self-Evolving Agents)<br>
 3) Multimodal Learning (Object-Level understanding VLMs)<br>
 4) Computer Vision (Detection, Segmentation)
 
-🔥News
+🔥 News
 ------
 **[2026.4]:** 🎓 Joined **[ENCODE Lab](https://westlake-encode-lab.github.io/)** at Westlake University as a visiting student, surpervised by Prof. **[Huan Wang](https://huanwang.tech/)**<br>
 **[2025.11]:** 🏆 Won the **Grand Prize** at the **Challenging Cup National Competition**. More [Details](https://cog.nuaa.edu.cn/2025/1104/c757a386909/page.htm)
 
-💪Selected Publications
+💪 Selected Publications
 ------
 Coming soon...
 
-💪Preprints
+💪 Preprints
 ------
 
 <div id="pubs"></div>
