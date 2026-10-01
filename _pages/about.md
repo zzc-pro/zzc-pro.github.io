@@ -10,7 +10,7 @@ redirect_from:
 I'm currently a visiting student at Westlake University under the supervision of Prof. **[Huan Wang](https://huanwang.tech/)**.<br>
 
 
-🐱‍👤 Research interests
+🥷 Research interests
 ------
 1) Efficient AI & MLSys (LLM/VLM/Diffusion Model's Efficiency, LLM4Kernel Gen)<br>
 2) Agentic AI (Self-Evolving Agents)<br>
